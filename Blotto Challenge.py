@@ -1,4 +1,5 @@
 '''
+from Jane Street
 Here are 10 castles, numbered 1, 2, 3, ... , 10, and worth 1, 2, 3, ... , 10 points respectively. You have 100 soldiers, which you can allocate between the castles however you wish. Your opponent also (independently) does the same. The number of soldiers on each castle is then compared, and for each castle, whoever has the most soldiers on that castle wins its points. Additionally, you lose 0.2 points for each "extra" soldier that you have, in excess of your opponent's army size, at each castle that you win. You still need to deploy all 100 soldiers. In the case of a tie, no one gets points for that castle.
 '''
 
